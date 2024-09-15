@@ -40,3 +40,26 @@ To run this project, you will need the following libraries installed:
 - `matplotlib`
 - `seaborn`
 - `scikit-learn`
+
+You can install them using:
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn
+```
+
+## Usage
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/customer-segmentation.git
+```
+
+2. Install the dependencies:
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn
+```
+
+3. Run the Jupyter Notebook to perform customer segmentation analysis:
+```bash
+jupyter notebook customer_segmentation.ipynb
+```
