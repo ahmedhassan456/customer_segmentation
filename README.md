@@ -63,3 +63,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ```bash
 jupyter notebook customer_segmentation.ipynb
 ```
+
+## Insights
+- The clusters reveal distinct groups of customers with similar purchasing behaviors.
+- These insights can be used to target customer groups with tailored marketing strategies.
